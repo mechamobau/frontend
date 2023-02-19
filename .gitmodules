@@ -1,0 +1,3 @@
+[submodule "packages/blog"]
+	path = packages/blog
+	url = https://github.com/mechamobau/blog
