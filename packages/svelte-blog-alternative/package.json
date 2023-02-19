@@ -1,5 +1,5 @@
 {
-	"name": "dictionary-svelte-app",
+	"name": "svelte-blog-alternative",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
