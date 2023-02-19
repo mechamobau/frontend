@@ -1,3 +1,9 @@
 [submodule "packages/blog"]
 	path = packages/blog
 	url = https://github.com/mechamobau/blog
+[submodule "packages/starwarspedia"]
+	path = packages/starwarspedia
+	url = https://github.com/mechamobau/starwarspedia
+[submodule "packages/simplestorage"]
+	path = packages/simplestorage
+	url = https://github.com/mechamobau/simplestorage
